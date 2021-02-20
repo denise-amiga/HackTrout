@@ -1,0 +1,18 @@
+[submodule "PerlinNoiseCaveGeneration"]
+	path = PerlinNoiseCaveGeneration
+	url = https://github.com/HackTrout/PerlinNoiseCaveGeneration.git
+[submodule "InverseKinematics"]
+	path = InverseKinematics
+	url = https://github.com/HackTrout/InverseKinematics.git
+[submodule "2DPlatformer"]
+	path = 2DPlatformer
+	url = https://github.com/HackTrout/2DPlatformer.git
+[submodule "SpringyAnimation"]
+	path = SpringyAnimation
+	url = https://github.com/HackTrout/SpringyAnimation.git
+[submodule "2DDynamicWater"]
+	path = 2DDynamicWater
+	url = https://github.com/HackTrout/2DDynamicWater.git
+[submodule "GodotWaveShader"]
+	path = GodotWaveShader
+	url = https://github.com/HackTrout/GodotWaveShader.git
